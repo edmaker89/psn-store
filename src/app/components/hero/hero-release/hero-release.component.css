@@ -1,0 +1,44 @@
+.hero-release__container {
+    position: absolute;
+    top: 60px;
+    left: 100px;
+    color: azure;
+}
+
+.hero-release__container > h2 {
+    font-size: 1.2rem;
+    margin-top: 1rem;
+}
+
+.hero-release__container > p {
+    margin-top: 1.5rem;
+}
+
+.price {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.btn-comprar {
+    margin-top: 2rem;
+    padding: 10px 40px;
+    font-size: 1.5rem;
+    border-radius: 25px;
+    border: none;
+    background-color: rgb(231, 65, 4);
+    color: white;
+    font-weight: 600;
+}
+
+.classificacao {
+    margin-top: 4rem;
+    display: flex;
+}
+
+.classificacao__content {
+    margin-left: 1rem;
+}
+
+.classificacao__content > hr {
+    margin: .5rem 0;
+}

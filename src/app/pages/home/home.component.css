@@ -1,0 +1,16 @@
+.home__container{
+    padding-top: 40px;
+    margin: auto;
+    width: 100%;
+}
+
+.home__cards{
+    padding-top: 30px;
+    padding-bottom: 50px;
+    width: 65%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    flex-wrap: wrap;
+}
